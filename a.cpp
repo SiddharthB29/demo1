@@ -3,8 +3,6 @@ using namespace std;
 void recursion();
 int main()
 {
-    recursion();
-}
-void recursion(){
     cout<<"hello world";
+    return 0;
 }
